@@ -1,3 +1,8 @@
+'use strict'
+/*
+//?
+//?
+*/
 export const info = {
     name: "MadeByJrNemirez",
     about: "CommandMadeByJrNemirez",
